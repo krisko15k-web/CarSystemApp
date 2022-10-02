@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CarSystemApp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Winner\\Downloads\\UPS-18621794",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true,
+      "hotReloadEnabled": true
+    }
+  }
+}

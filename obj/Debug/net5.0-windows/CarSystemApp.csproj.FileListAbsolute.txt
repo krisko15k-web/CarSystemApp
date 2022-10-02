@@ -1,0 +1,12 @@
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.csproj.AssemblyReference.cache
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.LoadScreen.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.Login.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.Properties.Resources.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.csproj.GenerateResource.cache
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.AssemblyInfoInputs.cache
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.AssemblyInfo.cs
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.CarSystemApp.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.MainForm.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\net5.0-windows\CarSystemApp.Users.resources

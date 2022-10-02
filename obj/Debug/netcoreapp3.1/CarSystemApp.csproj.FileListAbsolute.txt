@@ -1,0 +1,9 @@
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.csproj.AssemblyReference.cache
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.LoadScreen.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.Login.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.Properties.Resources.resources
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.csproj.GenerateResource.cache
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.AssemblyInfoInputs.cache
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.AssemblyInfo.cs
+C:\Users\Winner\source\repos\CarSystemApp\CarSystemApp\obj\Debug\netcoreapp3.1\CarSystemApp.csproj.CoreCompileInputs.cache
